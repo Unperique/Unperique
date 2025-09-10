@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Unperique
+# ¡Hola! 👋 Soy Andres Morales
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente trabajo en proyectos de desarrollo web
@@ -74,33 +74,22 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tu-perfil-linkedin)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/tu-usuario-instagram)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/andres-felipe-morales-20b944213)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/andres.morales1227)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresfelipemoralesmejia@gmail.com)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unperique)
   
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil-linkedin">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://instagram.com/tu-usuario-instagram">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
-  </a>
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="50" width="50" />
-  </a>
 </div>
 
 ## 💼 Proyectos Destacados
 
 <div align="center">
   
-  [![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=nombre-del-repo&theme=radical&hide_border=true)](https://github.com/Unperique/nombre-del-repo)
-  [![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=otro-repo&theme=radical&hide_border=true)](https://github.com/Unperique/otro-repo)
+  [![Cuentas](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=Cuentas&theme=radical&hide_border=true)](https://github.com/Unperique/Cuentas)
+  
+  [![PMUStudio](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=PMUStudio&theme=radical&hide_border=true)](https://github.com/Unperique/PMUStudio)
+  
+  [![SynthesisSAS](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=SynthesisSAS&theme=radical&hide_border=true)](https://github.com/Unperique/SynthesisSAS)
   
 </div>
 
