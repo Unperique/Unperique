@@ -1,16 +1,129 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Unperique
 
-<!--
-**Unperique/Unperique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+- 🔭 Actualmente trabajo en proyectos de desarrollo web
+- 🌱 Estoy aprendiendo nuevas tecnologías y mejorando mis habilidades
+- 👯 Busco colaborar en proyectos interesantes de código abierto
+- 💬 Pregúntame sobre desarrollo web y programación
+- 📫 Cómo contactarme: **[tu email]**
+- ⚡ Dato curioso: Siempre buscando aprender algo nuevo cada día
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes de Programación
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+</p>
+
+### Frameworks y Librerías
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="60" height="60"/>
+</p>
+
+### Bases de Datos
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
+</p>
+
+### Herramientas de Desarrollo
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+</p>
+
+### Sistemas Operativos
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="60" height="60"/>
+</p>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Unperique&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unperique&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+## 🏆 Logros de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Unperique&theme=onedark&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" />
+</div>
+
+## 📈 Gráfico de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unperique&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌐 Conéctate conmigo
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tu-perfil-linkedin)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/tu-usuario-instagram)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unperique)
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/tu-perfil-linkedin">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://instagram.com/tu-usuario-instagram">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="50" width="50" />
+  </a>
+</div>
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+  
+  [![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=nombre-del-repo&theme=radical&hide_border=true)](https://github.com/Unperique/nombre-del-repo)
+  [![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=Unperique&repo=otro-repo&theme=radical&hide_border=true)](https://github.com/Unperique/otro-repo)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 👀 Visitantes del Perfil
+  <img src="https://komarev.com/ghpvc/?username=Unperique&style=flat-square&color=blue" alt="Profile views" />
+  
+  ### 🐍 Contribuciones
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unperique/Unperique/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unperique/Unperique/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Unperique/Unperique/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
+
+<div align="center">
+  
+  **💙 Si te gusta mi trabajo, no olvides darme una ⭐ en mis repositorios**
+  
+  *"El código es poesía"* ✨
+  
+</div>
