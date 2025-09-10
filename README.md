@@ -74,26 +74,14 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tu-perfil-linkedin)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/tu-usuario-instagram)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/andres-felipe-morales-20b944213)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/andres.morales1227)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unperique)
   
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil-linkedin">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://instagram.com/tu-usuario-instagram">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
-  </a>
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="50" width="50" />
-  </a>
-</div>
 
 ## 💼 Proyectos Destacados
 
