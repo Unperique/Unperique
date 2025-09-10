@@ -39,9 +39,26 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="60" height="60"/>
 </p>
+
+## 🏗️ Arquitecturas y Patrones
+
+<div align="center">
+  
+  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
+  ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-%234ECDC4.svg?style=for-the-badge&logoColor=white)
+  ![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-%23FFE66D.svg?style=for-the-badge&logoColor=black)
+  ![CQRS](https://img.shields.io/badge/CQRS-%23A8E6CF.svg?style=for-the-badge&logoColor=black)
+  
+  ![Microservices](https://img.shields.io/badge/Microservices-%23FF8B94.svg?style=for-the-badge&logoColor=white)
+  ![Event Sourcing](https://img.shields.io/badge/Event%20Sourcing-%23B4A7D6.svg?style=for-the-badge&logoColor=white)
+  ![SOLID](https://img.shields.io/badge/SOLID%20Principles-%23D4A5A5.svg?style=for-the-badge&logoColor=white)
+  ![TDD](https://img.shields.io/badge/Test%20Driven%20Development-%2395E1D3.svg?style=for-the-badge&logoColor=black)
+  
+</div>
 
 ### Sistemas Operativos
 <p align="center">
