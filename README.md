@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy Andres Morales
 
 ## 🚀 Sobre mí
-- [cite_start]🔭 Actualmente trabajo como Desarrollador de Software en **Ideas Fractal**, enfocado en interfaces, integraciones y despliegues móviles.
-- [cite_start]💼 Soy un **Desarrollador Senior Frontend / Full Stack** con 4 años de experiencia.
-- [cite_start]🎓 Estudiante de 8vo semestre de **Ingeniería en Sistemas y Computación** en la UTP.
-- [cite_start]🌱 Enfocado en crear soluciones robustas y escalables [cite: 12][cite_start], y en la optimización de procesos[cite: 19].
+- 🔭 Actualmente trabajo como Desarrollador de Software en **Ideas Fractal**, enfocado en interfaces, integraciones y despliegues móviles.
+- 💼 Soy un **Desarrollador Senior Frontend / Full Stack** con 4 años de experiencia.
+- 🎓 Estudiante de 8vo semestre de **Ingeniería en Sistemas y Computación** en la UTP.
+- 🌱 Enfocado en crear soluciones robustas y escalables , y en la optimización de procesos.
 - 💬 Pregúntame sobre React, UI/UX, integraciones backend (C#/.NET) o manejo de servidores y telefonía IP (Bash, SSH).
-- [cite_start]📫 Cómo contactarme: **andresfelipemoralesmejia@gmail.com** [cite: 6]
+- 📫 Cómo contactarme: **andresfelipemoralesmejia@gmail.com** 
 - ⚡ Dato curioso: Me apasiona tanto diseñar interfaces increíbles como administrar la infraestructura de los servidores que las soportan.
 
 ## 🛠️ Tecnologías y Herramientas
