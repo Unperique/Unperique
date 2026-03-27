@@ -1,12 +1,13 @@
 # ¡Hola! 👋 Soy Andres Morales
 
 ## 🚀 Sobre mí
-- 🔭 Actualmente trabajo en proyectos de desarrollo web
-- 🌱 Estoy aprendiendo nuevas tecnologías y mejorando mis habilidades
-- 👯 Busco colaborar en proyectos interesantes de código abierto
-- 💬 Pregúntame sobre desarrollo web y programación
-- 📫 Cómo contactarme: **andresfelipemoralesmejia@gmail.com**
-- ⚡ Dato curioso: Siempre buscando aprender algo nuevo cada día
+- [cite_start]🔭 Actualmente trabajo como Desarrollador de Software en **Ideas Fractal**, enfocado en interfaces, integraciones y despliegues móviles.
+- [cite_start]💼 Soy un **Desarrollador Senior Frontend / Full Stack** con 4 años de experiencia.
+- [cite_start]🎓 Estudiante de 8vo semestre de **Ingeniería en Sistemas y Computación** en la UTP.
+- [cite_start]🌱 Enfocado en crear soluciones robustas y escalables [cite: 12][cite_start], y en la optimización de procesos[cite: 19].
+- 💬 Pregúntame sobre React, UI/UX, integraciones backend (C#/.NET) o manejo de servidores y telefonía IP (Bash, SSH).
+- [cite_start]📫 Cómo contactarme: **andresfelipemoralesmejia@gmail.com** [cite: 6]
+- ⚡ Dato curioso: Me apasiona tanto diseñar interfaces increíbles como administrar la infraestructura de los servidores que las soportan.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -15,15 +16,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
 </p>
 
-### Frameworks y Librerías
+### Frameworks y Librerías (Frontend & Backend)
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="60" height="60"/>
 </p>
@@ -32,16 +37,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
 </p>
 
-### Herramientas de Desarrollo
+### DevOps, Cloud & Herramientas
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="60" height="60"/>
 </p>
 
 ## 🏗️ Arquitecturas y Patrones
@@ -70,21 +78,27 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unperique&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unperique&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Unperique&show_icons=true&theme=radical&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Unperique&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ## 🏆 Logros de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Unperique&theme=onedark&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" />
+
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Unperique&theme=onedark&no-frame=true&row=1&column=6)
+
 </div>
 
 ## 📈 Gráfico de Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unperique&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unperique&theme=radical&hide_border=true)
+
 </div>
 
 ## 🌐 Conéctate conmigo
